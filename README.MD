@@ -30,7 +30,7 @@ yarn
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; padding: 5px;">
-        <img src="https://github.com/skmirajulislam/JourneySupport/blob/master/support.png" alt="Image 1" style="width: 800px; height: 500px;">
+        <img src="https://github.com/skmirajulislam/JourneySupport/blob/master/support.png" alt="Image 1" style="width: 800px; height: 500px; border-radius: 10px;">
     </div>
 </div>
 
