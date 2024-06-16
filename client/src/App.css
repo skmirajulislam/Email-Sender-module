@@ -1,0 +1,40 @@
+body {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  margin: 0;
+  background-image: url('https://raw.githubusercontent.com/skmirajulislam/JourneySupport/master/client/src/img/bg.png');
+  background-position: center;
+  background-size: cover;
+  padding-top: 2rem; /* Added margin on top */
+}
+
+hr {
+  color: white !important;
+}
+
+h2 {
+  color: white !important;
+  text-align: center;
+  font-weight: bold;
+}
+
+#bodytextarea {
+  height: 15rem !important;
+  margin-top: 1rem;
+}
+
+.card {
+  background-color: rgba(0, 0, 0, 0.4) !important; /* Corrected RGBA syntax */
+  border: 2px solid white !important;
+  height: auto; /* Changed to auto for responsiveness */
+  max-width: 90vw; /* Responsive width */
+  padding: 1rem; /* Added padding */
+}
+
+.card button {
+  border: 2px solid white !important;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
