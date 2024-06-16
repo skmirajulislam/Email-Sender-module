@@ -28,6 +28,12 @@ or
 yarn
 ```
 
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1; padding: 5px;">
+        <img src="https://github.com/skmirajulislam/JourneyCusine/blob/master/img1.png" alt="Image 1" style="width: 500px; height: 300px;">
+    </div>
+</div>
+
 ### 4. Setup Environment Variables
 Create a `.env` file in the root of your project directory and add the following variables:
 ```
