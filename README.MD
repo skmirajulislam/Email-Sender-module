@@ -9,13 +9,13 @@ To run this project on your local machine, follow these steps:
 ### 1. Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone <repository_url>
+git clone https://github.com/skmirajulislam/Email-Sender-module.git
 ```
 
 ### 2. Navigate to Project Directory
 Move into the project directory:
 ```bash
-cd <project_directory>
+cd Email-Sender-module
 ```
 
 ### 3. Install Dependencies
